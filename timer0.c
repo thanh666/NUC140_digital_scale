@@ -1,3 +1,7 @@
+/* THIS CODE IS CREATED BY CONG THANH */
+/* Email: vcthanh20@gmail.com */
+/* PLEASE KEEP THIS LINE WHEN USING THIS LIB */
+
 #include "main.h"
 long weight;
 void InitTIMER0(void)
@@ -108,3 +112,6 @@ void TMR0_IRQHandler()
 	}
 	TIMER0->TISR.TIF = 1;  // clear Interrupt flag
 }
+/* THIS CODE IS CREATED BY CONG THANH */
+/* Email: vcthanh20@gmail.com */
+/* PLEASE KEEP THIS LINE WHEN USING THIS LIB */

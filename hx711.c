@@ -1,3 +1,7 @@
+/* THIS LIB IS CREATED BY CONG THANH */
+/* Email: vcthanh20@gmail.com */
+/* PLEASE KEEP THIS LINE WHEN USING THIS LIB */
+
 #include "hx711.h"
 
 typedef struct {
@@ -172,3 +176,7 @@ void power_up(void)
 {
 	DrvGPIO_ClrBit(E_GPA, scale.PD_SCK_HX);
 }
+
+/* THIS LIB IS CREATED BY CONG THANH */
+/* Email: vcthanh20@gmail.com */
+/* PLEASE KEEP THIS LINE WHEN USING THIS LIB */

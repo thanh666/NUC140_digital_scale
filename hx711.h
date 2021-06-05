@@ -1,3 +1,8 @@
+/* THIS LIB IS CREATED BY CONG THANH */
+/* Email: vcthanh20@gmail.com */
+/* PLEASE KEEP THIS LINE WHEN USING THIS LIB */
+
+
 #ifndef _HX711_H_
 #define _HX711_H_
 
@@ -46,3 +51,6 @@ void power_up(void);
 
 #endif
 
+/* THIS LIB IS CREATED BY CONG THANH */
+/* Email: vcthanh20@gmail.com */
+/* PLEASE KEEP THIS LINE WHEN USING THIS LIB */
